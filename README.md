@@ -1,5 +1,5 @@
 # health-checks-BangkitAcademy
-One of the courses available for Bangkit Academy Machine Learning Awardee.
 
-Coursera first assignment on Week 3 - Basic Interaction with GitHub for "Introduction to Git and GitHub" Course
+This is a repository for the Coursera "Introduction to Git and GitHub" course assignments available for Bangkit Academy Machine Learning Awardee.
+
 
